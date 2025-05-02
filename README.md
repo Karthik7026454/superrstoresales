@@ -1,1 +1,6 @@
-# superrstoresales
+--> First of all, get data and then import superstore csv datafile 
+--> Then, Create various dashboard with given details from the dataset like Donut chart, Line Chart, Bar Chart And Add Slicer to it 
+--> Use Card, Map And Use Slicer as Tile And include Various Regions to it.
+--> Show the Sum Of Sales And Profit through Dashboard and The Graph according to the date.
+--> Highlight The Labels and values of each chart.
+--> Save the file using .pbix 
